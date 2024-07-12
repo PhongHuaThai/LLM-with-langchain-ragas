@@ -1,2 +1,2 @@
-# eLearing_Realtime
-e-Learning with the realtime communication between teacher and learner
+# Build RAG application by leveraging langchain, langsmith and ragas
+
