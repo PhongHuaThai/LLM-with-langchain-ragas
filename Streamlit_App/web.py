@@ -7,8 +7,6 @@ import json
 from export import Export
 from handle_question_list import Handle_question_list
 
-os.environ["LANGCHAIN_TRACING_V2"]="True"
-os.environ["LANGCHAIN_API_KEY"]='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'
 
 def stream_from_rag(user_query):
   chain = st.session_state.chatPDF.chain.pick("answer")
