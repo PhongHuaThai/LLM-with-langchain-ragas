@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchainhub
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+python-dotenv==1.0.1
+chromadb
+PyPDF2
+requests
+sentence-transformers
+faiss-cpu
+loguru
+pymupdf
+langsmith
+reportlab
